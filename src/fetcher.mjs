@@ -1,7 +1,7 @@
 import { execSync } from 'child_process';
 import fs from 'fs';
 
-const query = "Latest AI and technology trends as of January 31, 2026";
+const query = "Latest AI and technology trends as of January 31, 2026. Please provide the research summary in Traditional Chinese (繁體中文).";
 console.log(`Researching: ${query}...`);
 
 try {
